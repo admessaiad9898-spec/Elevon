@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wondrous-souffle-2cca1d.netlify.app/sitemap.xml
